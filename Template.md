@@ -4,7 +4,7 @@ Up to five students can be part of a team that contributes to a page.
 List the UNI and names of your team members, and what each person contributed in sufficient detail that the staff can identify your contributions.
 
 * jm5530 Jacob Million
-  * High level overview and examples
+  * Example and Tutorial
 
 ## Modin
 
@@ -28,5 +28,9 @@ We've discussed the relational model, constraints, SQL features, transactions, q
 Construct and describe a compelling example for the technology that is motivated by one member's project 1 application.  The example and tutorial must be original.
 
 #### Tutorial
+
+Link to COLAB notebook: https://colab.research.google.com/drive/1Cc2hDk2_dAtDbLcVuFmhcIiaFU8KpTog?usp=sharing
+
+Note: Please open while being logged into LionShare email address. Will not load otherwise.
 
 Write a short tutorial on how to use the technology to solve the example.  It may help to link to a working example (github repo or colab notebook), or a Loom tutorial video.
