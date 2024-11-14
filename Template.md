@@ -29,4 +29,8 @@ Construct and describe a compelling example for the technology that is motivated
 
 #### Tutorial
 
+Link to COLAB notebook: https://colab.research.google.com/drive/1Cc2hDk2_dAtDbLcVuFmhcIiaFU8KpTog?usp=sharing
+
+Note: Please open while being logged into LionShare email address. Will not load otherwise.
+
 Write a short tutorial on how to use the technology to solve the example.  It may help to link to a working example (github repo or colab notebook), or a Loom tutorial video.
