@@ -4,7 +4,7 @@ Up to five students can be part of a team that contributes to a page.
 List the UNI and names of your team members, and what each person contributed in sufficient detail that the staff can identify your contributions.
 
 * jm5530 Jacob Million
-  * High level overview and examples
+  * Example and Tutorial
 
 ## Modin
 
