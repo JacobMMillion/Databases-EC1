@@ -104,4 +104,6 @@ While working on Project 1, reading in data was something that needed to be cons
 
 Here is a short tutorial that both shows the speedup from Pandas to Modin, in the context of loading in disease data for Project 1 (please be sure to access from a columbia.edu email address in order to have permissions to view):
 
- [Colab Modin Disease Info Intake Example](https://colab.research.google.com/drive/1Cc2hDk2_dAtDbLcVuFmhcIiaFU8KpTog?usp=sharing) 
+ [Colab Modin Disease Info Intake Example](https://colab.research.google.com/drive/1Cc2hDk2_dAtDbLcVuFmhcIiaFU8KpTog?usp=sharing)
+
+ Note that the diseases.csv file may need to be replaced if the Colab file is opened in a new runtime. The file was too large to attach to the GitHub, so feel free to reach out if needed, and I can provide the CSV file for testing as well! To recreate, the rows are: Disease_ID, Name, and Category.
