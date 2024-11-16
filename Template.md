@@ -106,4 +106,4 @@ Here is a short tutorial that both shows the speedup from Pandas to Modin, in th
 
  [Colab Modin Disease Info Intake Example](https://colab.research.google.com/drive/1Cc2hDk2_dAtDbLcVuFmhcIiaFU8KpTog?usp=sharing)
 
- Note that the diseases.csv file may need to be replaced if the Colab file is opened in a new runtime. The file was too large to attach to the GitHub, so feel free to reach out if needed, and I can provide the CSV file for testing as well! To recreate, the rows are: Disease_ID, Name, and Category.
+ Note that the diseases.csv file may need to be replaced if the Colab file is opened in a new runtime. The file was too large to attach to the GitHub, so feel free to reach out if needed, and I can provide the CSV file for testing as well! To recreate, the rows are: Disease_ID, Name, and Category. A smaller version of the CSV file is attached in the REPO, but this example may be too small to see major differences in runtime betewen Pandas and Modin.
