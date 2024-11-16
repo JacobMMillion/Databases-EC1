@@ -98,13 +98,7 @@ We've discussed the relational model, constraints, SQL features, transactions, q
 3. [Koalas Documentation](https://koalas.readthedocs.io/en/latest/)  
 ---
 
-### Tutorial
-
-**Note: Installation is less relevant than a tutorial highlighting the main concepts as they relate to 4111.**
-
 #### Example
-
-Construct and describe a compelling example for the technology that is motivated by one member's project 1 application.  The example and tutorial must be original.
 
 While working on Project 1, reading in data was something that needed to be considered. While our team eventually opted to use generated data, the question of efficient data intake remains. The Python Pandas library allows for user friendly data work. Modin spoofs this library, providing the same functionality at a faster rate. While in class we discussed optimization techniques such as projection pushdown, being careful about ourer loop vs inner loop joins, and different, optimized queries, Modin takes another approach to improve overall runtime. It works by parallelizing operations, allowing multiple operations to run simultaniously. This is useful, especially when reading in large CSV files, as one might do for Project 1. Below is a tutorial of how Modin is used, and how simple it is to switch from Pandas to this library.
 
