@@ -1,14 +1,11 @@
-**FOLLOW THIS TEMPLATE BY COPYING IT INTO YOUR OWN PAGE**
-
-Up to five students can be part of a team that contributes to a page.
-List the UNI and names of your team members, and what each person contributed in sufficient detail that the staff can identify your contributions.
+Here are the UNIs and names of this team, as well as what each person contributed:
 
 * jm5530 Jacob Million
   * High level overview, tutorial, and example
 * mc5672 Michael Carrion
   * Alternatives & Why Modin
 
-## Modin
+## Modin High Level Overview
 Modin is built on research that comes out of UC Berkeley. It is comparable to Pandas, a popular library for programming and data science, but allows for better scalability, and is better for working with larger data sets. While Pandas is single threaded, Modin can be run on multiple CPUs at the same time, allowing for better results for operations that allow parallel processing.
 
 ### The Problem and Solution
